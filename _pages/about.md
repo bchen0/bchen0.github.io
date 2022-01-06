@@ -13,4 +13,4 @@ Veerapaneni and Dr. Alex Gorodetsky. I primarily work on deep learning approache
 quantum physics and imitation learning.
 
 I graduated from the University of Chicago in 2015, majoring in Mathematics and Economics. Between college and graduate
-school, I worked for a few years in quantitative finance.
+school, I worked for a few years in quantitative finance at AQR Capital Management.

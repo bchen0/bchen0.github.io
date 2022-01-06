@@ -1,8 +1,8 @@
 ---
-title: "Calculus I"
+title: "Data, Functions and Graphs"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of Michigan"
-date: 2019-01-01
+date: 2018-08-01
 location: "Ann Arbor, MI"
 ---
