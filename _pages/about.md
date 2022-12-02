@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in Applied Mathematics at the University of Michigan, advised by Dr. Shravan 
+I am a fifth year Ph.D. student in Applied Mathematics at the University of Michigan, advised by Dr. Shravan 
 Veerapaneni and Dr. Alex Gorodetsky. I primarily work on deep learning approaches (in particular generative models) to problems in quantum computing /
 quantum physics. Over the summer and fall of 2022, I interned at Zapata Computing.
 
