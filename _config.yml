@@ -81,13 +81,13 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "Brian Chen"
-  avatar           : "headshot.jpeg"
+  avatar           : "profile.png"
   bio              : "Applied Math Ph.D. student at the University of Michigan"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=IHw4KsQAAAAJ&hl"
-  email            : "chenbri@umich.edu"
+  email            :
   researchgate     :
   uri              :
   bitbucket        :
