@@ -1,7 +1,7 @@
 ---
 title: "Behavioral cloning in Atari games using a combined variational autoencoder and predictor model"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/9505001
+permalink: /publication/behavioral_cloning_in_atari.pdf
 venue: 'IEEE CEC 2021 Session on Games'
 ---
 We explore an approach to behavioral cloning in video games. We are motivated to pursue a learning architecture that is 
