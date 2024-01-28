@@ -1,7 +1,8 @@
 ---
 title: "Numerical and geometrical aspects of flow-based variational quantum Monte Carlo"
 collection: publications
-permalink: /publication/numerical_and_geometrical_aspects.pdf
+permalink: /files/numerical_and_geometrical_aspects.pdf
+vanue: 'Machine Learning: Science and Technology'
 ---
 This article aims to summarize recent and ongoing efforts 
 to simulate continuous-variable quantum systems using 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming barriers to scalability in variational quantum Monte Carlo"
 collection: publications
-permalink: /publication/overcoming_barriers_to_scalability.pdf
+permalink: /files/overcoming_barriers_to_scalability.pdf
 venue: 'Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis'
 ---
 The variational quantum Monte Carlo (VQMC) method received significant attention in the recent past because of its 
