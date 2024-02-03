@@ -83,11 +83,11 @@ author:
   name             : "Brian Chen"
   avatar           : "photo.jpeg"
   bio              : "Applied Math Ph.D. student at the University of Michigan"
-  location         : "Ann Arbor, MI"
+  location         : "New York, NY"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=IHw4KsQAAAAJ&hl"
-  email            :
+  email            : "chenbri@umich.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"bchen0"
+  github           : "bchen0"
   google_plus      :
   keybase          :
   instagram        :
