@@ -2,7 +2,7 @@
 title: "Low-Rank Tensor-Network Encodings for Video-to-Action Behavioral Cloning"
 collection: publications
 permalink: /files/meta_variational_monte_carlo.pdf
-venue: 'Under review'
+venue: 'Under review (TMLR)'
 ---
 We describe a tensor-network latent-space encoding approach for increasing the 
 scalability of behavioral cloning of a video game player’s actions entirely 
