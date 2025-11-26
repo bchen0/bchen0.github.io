@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brian Chen"
 title_separator          : "-"
 name                     : &name "Brian Chen"
-description              : &description "Applied Math Ph.D. student at the University of Michigan"
+description              : &description "Postdoc at Sandia National Laboratories"
 url                      : https://bchen0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bchen0/bchen0.github.io"
@@ -82,8 +82,8 @@ yandex_site_verification :
 author:
   name             : "Brian Chen"
   avatar           : "photo.jpeg"
-  bio              : "Applied Math Ph.D. student at the University of Michigan"
-  location         : "New York, NY"
+  bio              : "Postdoc at Sandia National Laboratories"
+  location         : "Albuquerque, NM"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=IHw4KsQAAAAJ&hl"
